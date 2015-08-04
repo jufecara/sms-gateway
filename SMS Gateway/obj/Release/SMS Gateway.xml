@@ -1,0 +1,95 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SMSGateway
+</name>
+</assembly>
+<members>
+<member name="M:SMS_Gateway.Log.consola(System.String)">
+	<summary>
+ Metodo para escribir por consola un mensaje
+ </summary>
+	<param name="mensage"></param>
+	<remarks></remarks>
+</member><member name="M:SMS_Gateway.Log.escribir(System.String)">
+	<summary>
+ Metodo para escribir
+ </summary>
+	<param name="logMessage"></param>
+	<remarks></remarks>
+</member><member name="M:SMS_Gateway.Log.dump(System.IO.StreamReader)">
+	<summary>
+ Muestra un archivo línea por línea por Consola
+ </summary>
+	<param name="r"></param>
+	<remarks></remarks>
+</member><member name="P:SMS_Gateway.SMSGateway.timeout">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SMS_Gateway.SMSGateway.Main">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:SMS_Gateway.SMSGateway.configurarModem">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:SMS_Gateway.SMSGateway.verificarPuertoSerie">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:SMS_Gateway.SMSGateway.verificarModem">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:SMS_Gateway.SMSGateway.enviarPendientes">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:SMS_Gateway.SMSGateway.puertoSerie_DataReceived(System.Object,System.IO.Ports.SerialDataReceivedEventArgs)">
+	<summary>
+	</summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:SMS_Gateway.SMSGateway.enviar(System.String)">
+	<summary>
+	</summary>
+	<param name="text"></param>
+	<remarks></remarks>
+</member><member name="M:SMS_Gateway.SMSGateway.smsEntrante">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:SMS_Gateway.SMSGateway.eliminarSms">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:SMS_Gateway.SMSGateway.enviarLeer(System.String,System.String)">
+	<summary>
+	</summary>
+	<param name="text"></param>
+	<param name="respuesta"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SMS_Gateway.SMSGateway.limpiarArreglo(System.Array)">
+	<summary>
+ Metodo para limpiar el arreglo de SMS
+ </summary>
+	<param name="arreglo"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SMS_Gateway.SMSGateway.StrToHex(System.String@)">
+	<summary>
+ Metodo para convertir una cadena de ASCII en una cadena de Hexadecimal
+ </summary>
+	<param name="Data"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,20 @@
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\bin\Release\SMS Gateway.exe.config
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\bin\Release\SMS Gateway.exe
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\bin\Release\SMS Gateway.pdb
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\bin\Release\SMS Gateway.xml
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\bin\Release\Mono.Security.dll
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\bin\Release\Npgsql.dll
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\bin\Release\Npgsql.pdb
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\bin\Release\Npgsql.xml
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\bin\Release\de\Npgsql.resources.dll
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\bin\Release\es\Npgsql.resources.dll
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\bin\Release\fi\Npgsql.resources.dll
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\bin\Release\fr\Npgsql.resources.dll
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\bin\Release\ja\Npgsql.resources.dll
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\bin\Release\zh-CN\Npgsql.resources.dll
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\obj\Release\ResolveAssemblyReference.cache
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\obj\Release\SMS_Gateway.Resources.resources
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\obj\Release\SMS Gateway.vbproj.GenerateResource.Cache
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\obj\Release\SMS Gateway.exe
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\obj\Release\SMS Gateway.xml
+D:\Desarrollo\VisualBasic\Proyectos\SMS Gateway\SMS Gateway\obj\Release\SMS Gateway.pdb
